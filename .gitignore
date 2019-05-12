@@ -107,3 +107,4 @@ venv.bak/
 *.gz
 *.csv
 *.DS_Store
+*.zip
